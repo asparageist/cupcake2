@@ -1,0 +1,22 @@
+body {
+  color: blue;
+  background-color: hotpink;
+  text-align: center;
+}
+
+h1 {
+  font-size: xx-large;
+}
+
+h2 {
+  font-size: x-large;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+#best {
+  color: white;
+}
